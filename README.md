@@ -1,4 +1,4 @@
-#Problem statement
+# Problem statement
 
 0. We're trying to create a simulation of an Air Conditioner and its remote.
 1. Create a program that prints "AC running at {$currentTemp} every {$interval} seconds" (bonus points if the embedded vars are configurable).
